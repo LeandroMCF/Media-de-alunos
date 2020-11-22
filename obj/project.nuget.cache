@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AcgWGsVGUuU+x1mgveBHTC6sqb3koVIf+lbHYT0meHn1F6bCtqRNvpSc7A6BBOOe5mubDqNyiLsOQUUh3BkoEA==",
+  "dgSpecHash": "Y8OEqV+9SeEpRmvMzys0PfAxQq1qbgUMDJu8yHlVm5nznQrxhljxeC+q+TGjaOdiXIQTYOhGQBgDfzuHmZLe3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\Desktop\\Media-de-alunos\\Media-de-alunos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Media-de-alunos\\Media-de-alunos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

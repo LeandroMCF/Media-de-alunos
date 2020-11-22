@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.csp
 C:\Users\dev\Desktop\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.dll
 C:\Users\dev\Desktop\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.pdb
 C:\Users\dev\Desktop\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\bin\Debug\netcoreapp3.1\Media-de-alunos.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Media-de-alunos\obj\Debug\netcoreapp3.1\Media-de-alunos.genruntimeconfig.cache
