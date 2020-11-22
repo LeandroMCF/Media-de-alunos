@@ -19,7 +19,7 @@ namespace Media_de_alunos
 
             Console.WriteLine("Média dos alunos\n----------------");
             //Coletando Info
-            for (var contador = 0; contador < 4; contador++)
+            for (var contador = 0; contador < 10; contador++)
             {
                 Console.WriteLine("digite o nome do(a) aluno(a)");
                 nomes[contador] = Console.ReadLine();
@@ -55,7 +55,7 @@ namespace Media_de_alunos
             //Fim do coletando infos
 
             //Exibindo Alunos e notas
-            for (var contador = 0; contador < 4; contador++)
+            for (var contador = 0; contador < 10; contador++)
             {
                 Console.WriteLine(nomes[contador]);
                 Console.WriteLine(nota1[contador]);
@@ -72,7 +72,7 @@ namespace Media_de_alunos
             rp = 0;
 
             //Calculando a média
-            for (var contador = 0; contador < 4; contador++)
+            for (var contador = 0; contador < 10; contador++)
             {
                 media[contador] = (nota1[contador] + nota2[contador] + nota3[contador] + nota4[contador]) / 4;
                 Console.WriteLine(nomes[contador]);
@@ -84,8 +84,8 @@ namespace Media_de_alunos
                     Console.WriteLine("Aprovado(a)");
                     Console.ResetColor();
                     Console.WriteLine("-----------------");
+                    totalaprovados[ap] = nomes[contador];
                     ap = ap + 1;
-                    totalaprovados[contador] = nomes[contador];
                 }
                 else
                 {
@@ -93,8 +93,8 @@ namespace Media_de_alunos
                     Console.WriteLine("Reprovado(a)");
                     Console.ResetColor();
                     Console.WriteLine("-----------------");
+                    totalreprovados[rp] = nomes[contador];
                     rp = rp + 1;
-                    totalreprovados[contador] = nomes[contador];
                 }
                 //fim verificando reprovação
             }
@@ -159,7 +159,7 @@ namespace Media_de_alunos
             
             //Calculando media geral
             static float medias(float a, float b, float c, float d, float e, float f, float g, float h, float i, float j){
-                float resumed = (a + b + c + d + e + f + g + h + i + j) / 4;
+                float resumed = (a + b + c + d + e + f + g + h + i + j) / 10;
 
                 return resumed;
             }
